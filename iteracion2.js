@@ -1,7 +1,7 @@
 /*1.1 Dado el siguiente javascript, cambia el valor de la propiedad age a 25.*/
 const character = { name: 'Jack Sparrow', age: 10 };
 
-const character = {name: 'Jack Sparrow', age: 25};
+const character = { name: 'Jack Sparrow', age: 25 };
 console.log(character);
 
 /*1.2 Declara 3 variables con los nombres y valores siguientes*/
@@ -10,7 +10,7 @@ let lastName = 'Snow';
 let age = 24;
 /*Muestralos por consola de esta forma: 
 	'Soy Jon Snow, tengo 24 años y me gustan los lobos.'*/
-console.log("Soy " +firstName+ " "+lastName+ "," + age " años y me gustan los lobos");
+console.log("Soy " + firstName + " " + lastName + "," + age "años y me gustan los lobos");
 
 /*1.3 Dado el siguiente javascript, imprime con un console.log la suma del precio de
 ambos juguetes.*/
